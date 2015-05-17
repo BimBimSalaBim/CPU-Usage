@@ -8,6 +8,6 @@ when you open the form and try to minimize it, it still shows at the bottom left
 
 --------------------------------------------------------------------------------------------------------------------------------
  Somethings I want to add to the program:
- A mouse over that displays the % of CPU used in real time
- A better installer
- A way to get updates
+ A mouse over that displays the % of CPU used in real time,
+ A better installer,
+ A way to get updates.
